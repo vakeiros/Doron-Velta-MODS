@@ -8,6 +8,8 @@ meanwell LRS-150-24 power supply mount
 
 poke probe for CraneFly Dragon mount
 
+ADXL mount that mounts on the probe spot
+
 BTT Pico mount that offsets electronics to a side so can use sherpa extruder inside electronics bay
 
 rpi_spacer to mount rpi on top on Pico
